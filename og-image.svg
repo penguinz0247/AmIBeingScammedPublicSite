@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Check This Scam — a free, private way to check a suspicious call, text, or message, and find out where to report it">
+  <!-- Self-hosted social-preview card. No external refs, no web fonts (system
+       sans only), so it honours the no-external-requests rule and the CSP. -->
+  <rect width="1200" height="630" fill="#eef1f6"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#1a4f8b"/>
+  <!-- shield + check, scaled from favicon.svg (viewBox 0 0 32 32) -->
+  <g transform="translate(96 168) scale(9)">
+    <path d="M16 2 5 6v9c0 7 4.6 11.8 11 15 6.4-3.2 11-8 11-15V6L16 2z" fill="#1a4f8b"/>
+    <path d="M16 4.2 7 7.4v7.6c0 5.9 3.8 10 9 12.8 5.2-2.8 9-6.9 9-12.8V7.4L16 4.2z" fill="#eef1f6"/>
+    <path d="m11 15.5 3.4 3.4L21 12.3" fill="none" stroke="#1a4f8b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="430" y="270" font-size="78" font-weight="700" fill="#10243f">Check This Scam</text>
+    <text x="430" y="350" font-size="40" font-weight="400" fill="#2b3a4d">A free, private way to check a suspicious</text>
+    <text x="430" y="404" font-size="40" font-weight="400" fill="#2b3a4d">call, text, or message — and find out</text>
+    <text x="430" y="458" font-size="40" font-weight="400" fill="#2b3a4d">where to report it.</text>
+  </g>
+</svg>

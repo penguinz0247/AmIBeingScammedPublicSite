@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://penguinz0247.github.io/AmIBeingScammedPublicSite/sitemap-index.xml
