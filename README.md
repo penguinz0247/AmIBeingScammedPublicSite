@@ -1,4 +1,4 @@
-# Check This Scam — public site
+# Am I Being Scammed? — public site
 
 A free, plain-language tool that helps a worried person check whether a
 suspicious call, text, or message is a scam — and find the right official place
