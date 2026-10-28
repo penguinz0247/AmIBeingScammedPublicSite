@@ -46,7 +46,7 @@ the official site before acting on it, and trust the official site over this one
 
 ## Need to talk to a person?
 
-These lines are free, confidential, and judgement-free — it's okay to call just
+These lines are free and judgement-free — it's okay to call just
 to ask a question. Confirm the current numbers on the official sites:
 
 - **AARP Fraud Watch Helpline** — 1‑877‑908‑3360 — <https://www.aarp.org>
